@@ -1,0 +1,11 @@
+h1 {
+		font-size: 40px;
+		
+}
+
+div {
+	background-image: url('https://ichef.bbci.co.uk/news/800/cpsprodpb/14236/production/_104368428_gettyimages-543560762.jpg.webp');
+	width: 300px;
+	height: 200px;
+	background-size: cover;
+}
